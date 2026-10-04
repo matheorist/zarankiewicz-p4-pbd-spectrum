@@ -1,0 +1,2 @@
+Complete-spectrum stitching verified for 340302 parameter pairs.
+Exact spectrum-cardinality formula verified for 244 orders; the second-order remainder is constant on each admissible class modulo 60.

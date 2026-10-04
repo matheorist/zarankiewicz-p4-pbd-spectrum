@@ -1,0 +1,2 @@
+Triple modules verified for every multiple of 3 from 15 through 300.
+One-four modules verified for 354 endpoint parameter pairs.

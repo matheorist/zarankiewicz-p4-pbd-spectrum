@@ -1,0 +1,6 @@
+t=3: E=16 module verified on 19 points
+t=6: E=8 module verified on 22 points
+t=9: E=8 module verified on 22 points
+dual t=5: E=8 module verified on 22 points
+dual t=10: E=8 module verified on 15 points
+t=3: all 14 E=8 incidence signatures are infeasible

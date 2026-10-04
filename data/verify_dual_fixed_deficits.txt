@@ -1,0 +1,7 @@
+t=1: E=8 certificate on 8 points; blocks={4: 2}, uncovered=4
+t=3: E=8 certificate on 21 points; blocks={4: 7, 6: 3}, uncovered=1
+t=5: E=8 certificate on 25 points; blocks={4: 10, 6: 4}, uncovered=0
+t=6: E=8 certificate on 24 points; blocks={4: 10, 6: 3}, uncovered=1
+t=8: E=8 certificate on 25 points; blocks={4: 12, 6: 3}, uncovered=1
+t=10: E=8 certificate on 20 points; blocks={4: 12, 6: 1}, uncovered=3
+t=11: E=8 certificate on 19 points; blocks={4: 14, 7: 1}, uncovered=1

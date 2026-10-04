@@ -1,0 +1,10 @@
+d=0: six and only six numerical signatures verified.
+d=0: support=[3, 6], non-4 signatures=6, uncovered-edge range=[0,2]
+d=1: support=[1, 2, 3, 6, 7, 8], non-4 signatures=53, uncovered-edge range=[0,6]
+d=2: support=[1, 2, 3, 6, 7, 8, 9], non-4 signatures=238, uncovered-edge range=[0,10]
+d=3: support=[1, 2, 3, 6, 7, 8, 9], non-4 signatures=774, uncovered-edge range=[0,14]
+d=4: support=[1, 2, 3, 6, 7, 8, 9, 10], non-4 signatures=2108, uncovered-edge range=[0,18]
+d=5: support=[1, 2, 3, 6, 7, 8, 9, 10, 11], non-4 signatures=5040, uncovered-edge range=[0,22]
+d=6: support=[1, 2, 3, 6, 7, 8, 9, 10, 11], non-4 signatures=10922, uncovered-edge range=[0,26]
+d=7: support=[1, 2, 3, 6, 7, 8, 9, 10, 11, 12], non-4 signatures=22049, uncovered-edge range=[0,30]
+d=8: support=[1, 2, 3, 6, 7, 8, 9, 10, 11, 12], non-4 signatures=41983, uncovered-edge range=[0,34]

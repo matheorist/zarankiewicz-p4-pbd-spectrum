@@ -1,0 +1,1 @@
+Residue-bookkeeping table verified in all 30 admissible classes modulo 60.

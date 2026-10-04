@@ -1,0 +1,2 @@
+alpha=1: every delta in {3,6,...,177} verified with denominator 21
+alpha=2: every delta in {3,6,...,177} verified with denominator 39

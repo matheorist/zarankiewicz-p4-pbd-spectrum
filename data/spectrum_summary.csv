@@ -1,0 +1,5 @@
+order,arithmetic_count,realised_count,excluded_count,b_regular_lower,b_regular_upper,a_positive_floor,steiner4_endpoint,steiner5_endpoint,second_order_error
+3601,216061,216056,5,12,648171,15,1,1,-4
+3604,216421,216238,183,12,648720,901,1,0,-2
+3605,216541,216299,242,721,649612,15,0,1,-1
+3608,216901,216480,421,724,650161,903,0,0,0

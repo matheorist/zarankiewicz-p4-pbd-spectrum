@@ -1,0 +1,1 @@
+Dual endpoint modules, floors, congruences, core increments, and amplified overlaps verified.

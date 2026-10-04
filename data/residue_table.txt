@@ -1,0 +1,36 @@
+m=3601: realised=216056/216061, excluded=5, regular b-range=[12,648171], positive a-floor=15, second-order error=-4
+m=3604: realised=216238/216421, excluded=183, regular b-range=[12,648720], positive a-floor=901, second-order error=-2
+m=3605: realised=216299/216541, excluded=242, regular b-range=[721,649612], positive a-floor=15, second-order error=-1
+m=3608: realised=216480/216901, excluded=421, regular b-range=[724,650161], positive a-floor=903, second-order error=0
+
+residue alpha eta linear_coefficient bounded_term
+ 0     2   1                1/5            1
+ 1     0   0               1/60           -4
+ 4     0   1               1/15           -2
+ 5     1   0               1/12           -1
+ 8     1   1               2/15            0
+ 9     2   0               3/20           -3
+12     2   1                1/5            0
+13     0   0               1/60        -23/5
+16     0   1               1/15        -11/5
+17     1   0               1/12        -12/5
+20     1   1               2/15            1
+21     2   0               3/20         -6/5
+24     2   1                1/5          1/5
+25     0   0               1/60           -4
+28     0   1               1/15        -11/5
+29     1   0               1/12        -13/5
+32     1   1               2/15          1/5
+33     2   0               3/20        -11/5
+36     2   1                1/5          3/5
+37     0   0               1/60        -26/5
+40     0   1               1/15           -2
+41     1   0               1/12         -8/5
+44     1   1               2/15          3/5
+45     2   0               3/20           -1
+48     2   1                1/5          1/5
+49     0   0               1/60        -26/5
+52     0   1               1/15        -13/5
+53     1   0               1/12        -12/5
+56     1   1               2/15          1/5
+57     2   0               3/20        -13/5
